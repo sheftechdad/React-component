@@ -1,7 +1,7 @@
 ![com](https://github.com/user-attachments/assets/08eeb3b6-3856-4cce-ab0b-c4afcbb58134)
  
 
-# React Components  
+# React Components .
 This is a basic React project that displays a heading and a list using separate components.  
 
 ## Features  
